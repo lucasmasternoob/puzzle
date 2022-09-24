@@ -16,8 +16,8 @@ html{
 }
 
 .conjunto{
-    width: 410px;
-    height: 410px;
+    width: 230px;
+    height: 230px;
     display: flex;
     flex-direction: row;
     justify-content: center;
